@@ -94,5 +94,3 @@ Para garantir que tudo está a comunicar corretamente, pode usar os comandos `mo
     *   Verifique se a porta `8883` (ou a porta que configurou) não está a ser usada por outra aplicação.
 
 ---
-
-Este guia será um recurso valioso! Depois de o criar, não se esqueça de o adicionar, fazer commit e fazer push para o seu repositório Git.
